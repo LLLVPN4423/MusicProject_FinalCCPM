@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CCPM\\MusicProject_FinalCCPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\services\\systemsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\services\\systemsettingsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\services\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\services\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|d:\\ccpm\\musicproject_finalccpm\\musicapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D03DF6-BD76-0F36-B156-7078BBD6EE51}|MusicApp\\MusicApp.csproj|solutionrelative:musicapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemSettingsManager.cs",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Services\\SystemSettingsManager.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Services\\SystemSettingsManager.cs",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Services\\SystemSettingsManager.cs",
+              "RelativeToolTip": "MusicApp\\Services\\SystemSettingsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:52:38.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "MusicApp\\AssemblyInfo.cs",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "MusicApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:48:20.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\App.xaml",
+              "RelativeDocumentMoniker": "MusicApp\\App.xaml",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\App.xaml",
+              "RelativeToolTip": "MusicApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-27T15:41:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MusicApp\\App.xaml.cs",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\App.xaml.cs",
+              "RelativeToolTip": "MusicApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:41:37.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthManager.cs",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Services\\AuthManager.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Services\\AuthManager.cs",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Services\\AuthManager.cs",
+              "RelativeToolTip": "MusicApp\\Services\\AuthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:38:36.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MusicApp\\Models\\CartItem.cs",
+              "ToolTip": "D:\\CCPM\\MusicProject_FinalCCPM\\MusicApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "MusicApp\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:34:30.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
