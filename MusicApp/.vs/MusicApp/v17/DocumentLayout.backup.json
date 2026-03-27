@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minhp\\Documents\\Zalo Received Files\\MusicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B34B6FD-84A7-9AA6-EBB3-A5839C35FBE1}|MusicApp.csproj|c:\\users\\minhp\\documents\\zalo received files\\musicapp\\musicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B34B6FD-84A7-9AA6-EBB3-A5839C35FBE1}|MusicApp.csproj|solutionrelative:musicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B34B6FD-84A7-9AA6-EBB3-A5839C35FBE1}|MusicApp.csproj|c:\\users\\minhp\\documents\\zalo received files\\musicapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0B34B6FD-84A7-9AA6-EBB3-A5839C35FBE1}|MusicApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicApp.csproj",
+              "DocumentMoniker": "C:\\Users\\minhp\\Documents\\Zalo Received Files\\MusicApp\\MusicApp.csproj",
+              "RelativeDocumentMoniker": "MusicApp.csproj",
+              "ToolTip": "C:\\Users\\minhp\\Documents\\Zalo Received Files\\MusicApp\\MusicApp.csproj",
+              "RelativeToolTip": "MusicApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T08:02:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\minhp\\Documents\\Zalo Received Files\\MusicApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\minhp\\Documents\\Zalo Received Files\\MusicApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-27T07:35:07.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
